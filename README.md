@@ -1,3 +1,4 @@
 # IdentityChain
-This is IdentityChain Project
-- IdentityChain:ISC
+This is I Chain Project
+- I Chain:ISC
+- better
